@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Академик</title>
+    <link>https://example.com/ru/project/</link>
+      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Thu, 26 May 2022 17:42:49 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>4-ый этап индивидуального проекта</title>
+      <link>https://example.com/ru/project/stage4/</link>
+      <pubDate>Thu, 26 May 2022 17:42:49 +0300</pubDate>
+      <guid>https://example.com/ru/project/stage4/</guid>
+      <description>&lt;p&gt;Помимо лабораторных работ, я также выполнил четвертый этап индивидуального проекта, коим является сайт, на котором Вы сейчас находитесь 🤓.&lt;/p&gt;
+&lt;p&gt;Если Вы еще не знали, то целью данного индивидуального проекта является&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Создание персонального сайта научного работника.
+Сайт должен быть по шаблону и включать в себя такие блоки, как посты, информацию о себе, информацию об образовании и др. Сайт должен находится на GitHub Pages.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Там было всего три основных задания, однако первое задание являлось самым муторным, нелепым, несообразным, абсурдным, несуразным и глупым. Список всех заданий предоставлен ниже&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Список добавляемых данных.
+&lt;ul&gt;
+&lt;li&gt;Ссылки на ресурсы
+&lt;ul&gt;
+&lt;li&gt;eLibrary : &lt;a href=&#34;https://elibrary.ru/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://elibrary.ru/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Scholar : &lt;a href=&#34;https://scholar.google.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ORCID : &lt;a href=&#34;https://orcid.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://orcid.org/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mendeley : &lt;a href=&#34;https://www.mendeley.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mendeley.com/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ResearchGate : &lt;a href=&#34;https://www.researchgate.net/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Academia.edu : &lt;a href=&#34;https://www.academia.edu/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.academia.edu/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;arXiv : &lt;a href=&#34;https://arxiv.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;github : &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+&lt;ul&gt;
+&lt;li&gt;Оформление отчёта.&lt;/li&gt;
+&lt;li&gt;Создание презентаций.&lt;/li&gt;
+&lt;li&gt;Работа с библиографией.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Задания, за исключением первого, были выполнены лего и просто, без проблем. Были веселыми и интересными. А первое задание было выполнено долго, невесело, неинтересно и в целом в плачевности.&lt;/p&gt;
+&lt;p&gt;После выполнения данного этапа был написан вывод:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;По окончании четвертого этапа индивидуального проекта мы поняли как нудно можно выполнять отвратительное задание. Во время его выполнения научились регистрировать аккаунты на сайтах и вставлять ссылки на них на сайт 🤡🤡🤡. Также было написано два поста (лучшая часть этапа).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Ладно, на самом деле вывод был не такой, но если Вам действительно интересен вывод, то можете найти его на моем Github репозитории.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Данная лабораторная работа была отвратительной. Мне она совершенно не понравилась.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Лабораторная работа №10</title>
+      <link>https://example.com/ru/project/lab10/</link>
+      <pubDate>Thu, 26 May 2022 17:42:42 +0300</pubDate>
+      <guid>https://example.com/ru/project/lab10/</guid>
+      <description>&lt;p&gt;На прошлой неделе я делал лабораторную работу №9. Целью данной лабораторной работы было&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Изучение основ программирования в оболочке ОС UNIX/Linux, а также обучение написанию небольших командных файлов.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Там было всего четыре задания и все они заключались в написании командных файлов с указанным поведением.&lt;/p&gt;
+&lt;p&gt;Задания были выполнены лего и просто, без проблем.&lt;/p&gt;
+&lt;p&gt;После выполнения работы был сделан такой вывод:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;По выполнении лабораторной работы мы изучили основы программирования в оболочке ОС UNIX/Linux, а также научились писать небольшие командные файлы.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Данная лабораторная работа была классной. Мне она очень сильно понравилась.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Лабораторная работа №9</title>
+      <link>https://example.com/ru/project/lab09/</link>
+      <pubDate>Thu, 26 May 2022 17:38:09 +0300</pubDate>
+      <guid>https://example.com/ru/project/lab09/</guid>
+      <description>&lt;p&gt;На прошлой неделе я делал лабораторную работу №9. Целью данной лабораторной работы было&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ознакомление с операционной системой Linux, а также получение практических навыков работы с редактором emacs.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Там было три задания&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ознакомление с теоретическим материалом&lt;/li&gt;
+&lt;li&gt;Ознакомление с редактором emacs&lt;/li&gt;
+&lt;li&gt;Выполнение упражнений с редактором emacs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;После выполнения работы был сделан такой вывод:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;По выполнении лабораторной работы мы получили практические навыки работы с редактором emacs, а также немного дополнительно познакомились с операционной системой Linux.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Данная лабораторная работа была классной. Мне она очень сильно понравилась.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://example.com/ru/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

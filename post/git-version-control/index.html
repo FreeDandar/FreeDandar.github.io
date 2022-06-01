@@ -57,16 +57,18 @@
   
   
 
-  <meta name="author" content="Кочкарев Станислав" />
+  <meta name="author" content="Kochkarev Stanislav" />
 
   
   
   
     
   
-  <meta name="description" content="Что такое Git? Git &ndash; это распределенная система управления версиями. Была разработана Линусом Торвальдсом для управления разработкой ядра Linux.
-А что такое система управления версиями? Система управления версиями &ndash; это программное обеспечение, которое позволяет хранить несколько версий одного и того же документа и при необходимости возвращаться к прошлым версиям, объединять их, отслеживать изменения и многое другое." />
+  <meta name="description" content="What&rsquo;s a git? Git is a distributed version control system. It was developed by Linus Torvalds to manage the development of the Linux kernel.
+And what is a version control system?" />
 
+  
+    <link rel="alternate" hreflang="ru" href="https://example.com/ru/post/git-version-control/" />
   
   <link rel="alternate" hreflang="en-us" href="https://example.com/post/git-version-control/" />
 
@@ -310,9 +312,9 @@
   
   <meta property="og:site_name" content="Academic" />
   <meta property="og:url" content="https://example.com/post/git-version-control/" />
-  <meta property="og:title" content="Управление версиями. Git. | Academic" />
-  <meta property="og:description" content="Что такое Git? Git &ndash; это распределенная система управления версиями. Была разработана Линусом Торвальдсом для управления разработкой ядра Linux.
-А что такое система управления версиями? Система управления версиями &ndash; это программное обеспечение, которое позволяет хранить несколько версий одного и того же документа и при необходимости возвращаться к прошлым версиям, объединять их, отслеживать изменения и многое другое." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:title" content="Version control. Git. | Academic" />
+  <meta property="og:description" content="What&rsquo;s a git? Git is a distributed version control system. It was developed by Linus Torvalds to manage the development of the Linux kernel.
+And what is a version control system?" /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -347,14 +349,14 @@
     "@type": "WebPage",
     "@id": "https://example.com/post/git-version-control/"
   },
-  "headline": "Управление версиями. Git.",
+  "headline": "Version control. Git.",
   
   "datePublished": "2022-05-05T19:12:32+03:00",
   "dateModified": "2022-05-05T19:12:32+03:00",
   
   "author": {
     "@type": "Person",
-    "name": "Кочкарев Станислав"
+    "name": "Kochkarev Stanislav"
   },
   
   "publisher": {
@@ -365,7 +367,7 @@
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Что такое Git? Git \u0026ndash; это распределенная система управления версиями. Была разработана Линусом Торвальдсом для управления разработкой ядра Linux.\nА что такое система управления версиями? Система управления версиями \u0026ndash; это программное обеспечение, которое позволяет хранить несколько версий одного и того же документа и при необходимости возвращаться к прошлым версиям, объединять их, отслеживать изменения и многое другое."
+  "description": "What\u0026rsquo;s a git? Git is a distributed version control system. It was developed by Linus Torvalds to manage the development of the Linux kernel.\nAnd what is a version control system?"
 }
 </script>
 
@@ -381,7 +383,7 @@
 
 
 
-  <title>Управление версиями. Git. | Academic</title>
+  <title>Version control. Git. | Academic</title>
 </head>
 
 
@@ -750,6 +752,22 @@
 
         
         
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link " data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>English</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://example.com/ru/post/git-version-control/">
+              <span>Русский</span>
+            </a>
+            
+          </div>
+        </li>
+        
 
       </ul>
 
@@ -786,10 +804,10 @@
   
   
 <div class="article-container pt-3">
-  <h1>Управление версиями. Git.</h1>
+  <h1>Version control. Git.</h1>
 
   
-  <p class="page-subtitle">Как устроено управление версиями, в частности Git.</p>
+  <p class="page-subtitle">How version control works, in particular Git.</p>
   
 
   
@@ -844,27 +862,27 @@
   <div class="article-container">
 
     <div class="article-style">
-      <h2 id="что-такое-git">Что такое Git?</h2>
-<p>Git &ndash; это распределенная система управления версиями. Была разработана Линусом Торвальдсом для управления разработкой ядра Linux.</p>
-<h2 id="а-что-такое-система-управления-версиями">А что такое система управления версиями?</h2>
-<p>Система управления версиями &ndash; это программное обеспечение, которое позволяет хранить несколько версий одного и того же документа и при необходимости возвращаться к прошлым версиям, объединять их, отслеживать изменения и многое другое. Таким образом система управления версиями очень сильно облегчает работу как с большими проектами, в которых множество &ldquo;блоков&rdquo; и модулей, которые разрабатываются отдельно, так и с единичными файлами, например текстовыми документами, в которых можно вернуться ко любой версии ранее написанного текста.</p>
-<h2 id="как-это-устроено">Как это устроено?</h2>
-<h3 id="репозиторий-как-проект">Репозиторий как проект</h3>
-<p>В git &ldquo;единицей проекта&rdquo; является репозиторий. Это как некая директория, которая хранит файлы, версии и все связанное.</p>
-<h3 id="ветки">Ветки</h3>
-<p>В git существует понятие &ldquo;веток&rdquo;, которые разделяют весь поток внесенных изменений и всего проекта в целом на разные &ldquo;течения&rdquo;. Таким образом можно делать отдельные ветки для отдельных нововведений, отдельных пре-релизных версий (бета-версии) и для любых других условных разделений.</p>
-<h3 id="клиент-сервер">Клиент-сервер</h3>
-<p>git изначально устанавливается как локальная утилита, однако ее можно использовать и в связке с сервером. В таком случае локальные изменения нужно будет загружать на сервер, который будет являться централизованный &ldquo;точкой истины&rdquo; (т.е. то, где находится самая актуальная версия проекта). Это также дает плюсы по сохранению данных, что в случае исчезновения локальной версии, версия на сервере будет служить бэкапом.</p>
-<h2 id="зачем">Зачем?</h2>
-<p>Поговорив про git как систему, стоит понять, какую пользу это может принести именно тебе.</p>
-<p>Думаю каждый для себя уже выделил главную суть того, что это позволяет контролировать работу над чем-либо намного более гибко и удобно. Однако давайте упомянем еще несколько преимуществ системы контроля версий git.</p>
-<h3 id="общая-работа">Общая работа</h3>
-<p>В сценарии использования git вместе с сервером, открывается возможность работы нескольких пользователей над одним проектом. В таком случае каждый работает над своей частью проекта, выгружает это в репозиторий и там это все компонуется в единый проект. Если же возникают конфликты, то их можно решить такими способами как объединение (merge) или выбор приоритетной версии.</p>
-<h3 id="упаковка-кода">&ldquo;Упаковка&rdquo; кода</h3>
-<p>При использовании git существует возможность создания т.н. &ldquo;упаковок&rdquo;. Это &ldquo;собранный&rdquo; проект, который дистрибутируется как готовая версия. В случае с какой-нибудь программой, это будет исполняемый файл.</p>
+      <h2 id="whats-a-git">What&rsquo;s a git?</h2>
+<p>Git is a distributed version control system. It was developed by Linus Torvalds to manage the development of the Linux kernel.</p>
+<h2 id="and-what-is-a-version-control-system">And what is a version control system?</h2>
+<p>A version control system is a software that allows you to store multiple versions of the same document and, if necessary, go back to past versions, merge them, track changes, and much more. Thus, the version control system greatly facilitates work both with large projects, in which there are many &ldquo;blocks&rdquo; and modules that are developed separately, and with single files, for example text documents, in which you can return to any version of previously written text.</p>
+<h2 id="how-does-it-work">How does it work?</h2>
+<h3 id="repository-as-a-project">Repository as a project</h3>
+<p>In git, the &ldquo;project unit&rdquo; is the repository. It&rsquo;s like a kind of directory that stores files, versions and everything related.</p>
+<h3 id="branches">Branches</h3>
+<p>In git, there is a concept of &ldquo;branches&rdquo; that divide the entire flow of changes made and the entire project as a whole into different &ldquo;currents&rdquo;. Thus, you can make separate branches for individual innovations, separate pre-release versions (beta versions) and for any other conditional divisions.</p>
+<h3 id="client-server">Client-server</h3>
+<p>git is initially installed as a local utility, but it can also be used in conjunction with the server. In this case, local changes will need to be uploaded to the server, which will be a centralized &ldquo;point of truth&rdquo; (i.e., where the most up-to-date version of the project is located). This also gives the advantages of saving data, that in case the local version disappears, the version on the server will serve as a backup.</p>
+<h2 id="why">Why?</h2>
+<p>After talking about git as a system, it&rsquo;s worth understanding what benefits it can bring to you.</p>
+<p>I think everyone has already identified the main point for themselves that this allows you to control work on something much more flexibly and conveniently. However, let&rsquo;s mention a few more advantages of the git version control system.</p>
+<h3 id="general-work">General work</h3>
+<p>In the scenario of using git together with the server, it opens up the possibility of several users working on one project. In this case, everyone is working on their part of the project, uploads it to the repository and there it is all assembled into a single project. If conflicts arise, they can be resolved in such ways as merge or choosing a priority version.</p>
+<h3 id="packaging-of-the-code">&ldquo;Packaging&rdquo; of the code</h3>
+<p>When using git, it is possible to create so-called &ldquo;packages&rdquo;. This is a &ldquo;assembled&rdquo; project that is distributed as a ready-made version. In the case of some program, it will be an executable file.</p>
 <h3 id="pipeline-cicd">Pipeline (CI/CD)</h3>
-<p>Также (вероятнее всего в сценарии с сервером для git) есть возможность создать т.н. pipeline разработки. Т.е. можно настроить правила, по которым при триггере определенных ивентов (например загрузке нового коммита в ветку <em>dev</em>) будет выполнять процесс обработки. Продолжая пример, при загрузке нового коммита (кода) будут выполняться все тесты и будет произведена попытка запуска программы на различных операционных системах, что позволят проверить работоспособность кода и его поддерживаемость.</p>
-<p>В заключение хочется сказать, что все должны хотя бы попробовать использовать git. Поверьте, Вам понравится!</p>
+<p>Also (most likely in a scenario with a server for git) it is possible to create a so-called development pipeline. I.e., you can configure the rules by which, when certain events trigger (for example, uploading a new commit to the <em>dev</em> branch), the processing process will be performed. Continuing the example, when loading a new commit (code), all tests will be performed and an attempt will be made to run the program on various operating systems, which will allow you to check the operability of the code and its maintainability.</p>
+<p>In conclusion, I would like to say that everyone should at least try using git. Believe me, you will like it!</p>
 
     </div>
 
@@ -886,7 +904,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://example.com/post/git-version-control/&amp;text=%d0%a3%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f%d0%bc%d0%b8.%20Git." target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://example.com/post/git-version-control/&amp;text=Version%20control.%20Git." target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -899,7 +917,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://example.com/post/git-version-control/&amp;t=%d0%a3%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f%d0%bc%d0%b8.%20Git." target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://example.com/post/git-version-control/&amp;t=Version%20control.%20Git." target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -912,7 +930,7 @@
       
       
       <li>
-        <a href="mailto:?subject=%d0%a3%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f%d0%bc%d0%b8.%20Git.&amp;body=https://example.com/post/git-version-control/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Version%20control.%20Git.&amp;body=https://example.com/post/git-version-control/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -925,7 +943,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://example.com/post/git-version-control/&amp;title=%d0%a3%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f%d0%bc%d0%b8.%20Git." target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://example.com/post/git-version-control/&amp;title=Version%20control.%20Git." target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -938,7 +956,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=%d0%a3%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f%d0%bc%d0%b8.%20Git.%20https://example.com/post/git-version-control/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Version%20control.%20Git.%20https://example.com/post/git-version-control/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -951,7 +969,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://example.com/post/git-version-control/&amp;title=%d0%a3%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f%d0%bc%d0%b8.%20Git." target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://example.com/post/git-version-control/&amp;title=Version%20control.%20Git." target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -984,13 +1002,13 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hubc63edfcc5ea5bc0ddcf221367170022_8278415_270x270_fill_lanczos_center_3.png" alt="Кочкарев Станислав"></a>
+      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hubc63edfcc5ea5bc0ddcf221367170022_8278415_270x270_fill_lanczos_center_3.png" alt="Kochkarev Stanislav"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://example.com/">Кочкарев Станислав</a></h5>
-      <h6 class="card-subtitle">Студент</h6>
-      <p class="card-text">Интересуюсь и изучаю компьютеры, программирование и все связанное.</p>
+      <h5 class="card-title"><a href="https://example.com/">Kochkarev Stanislav</a></h5>
+      <h6 class="card-subtitle">Student</h6>
+      <p class="card-text">I am interested in and study computers, programming and everything related.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
