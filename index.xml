@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://freedandar.github.io/</link>
+      <atom:link href="https://freedandar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://freedandar.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/</link>
+      <link>https://freedandar.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://freedandar.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://freedandar.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Wowchemy</title>
-      <link>https://example.com/post/wowchemy/</link>
+      <link>https://freedandar.github.io/post/wowchemy/</link>
       <pubDate>Wed, 01 Jun 2022 19:12:46 +0300</pubDate>
-      <guid>https://example.com/post/wowchemy/</guid>
+      <guid>https://freedandar.github.io/post/wowchemy/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;This is a post about wowchemy &amp;ndash; what you see now&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -76,9 +76,9 @@
     
     <item>
       <title>Seventh Week</title>
-      <link>https://example.com/post/seventh-week/</link>
+      <link>https://freedandar.github.io/post/seventh-week/</link>
       <pubDate>Wed, 01 Jun 2022 18:51:20 +0300</pubDate>
-      <guid>https://example.com/post/seventh-week/</guid>
+      <guid>https://freedandar.github.io/post/seventh-week/</guid>
       <description>&lt;h1 id=&#34;the-seventh-七-week-is-almost-over&#34;&gt;The seventh 七/❼ week is almost over!&lt;/h1&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;Monday was purely a Monday and did not represent anything. Right on the maximum weekly Monday. 😑😑😑 In the morning, programming technology, in the afternoon - our favorite subject (hint - OS 🤓).&lt;/p&gt;
@@ -97,9 +97,9 @@
     
     <item>
       <title>Scientific programming languages</title>
-      <link>https://example.com/post/sci-langs/</link>
+      <link>https://freedandar.github.io/post/sci-langs/</link>
       <pubDate>Thu, 26 May 2022 18:17:00 +0300</pubDate>
-      <guid>https://example.com/post/sci-langs/</guid>
+      <guid>https://freedandar.github.io/post/sci-langs/</guid>
       <description>&lt;h1 id=&#34;this-is-who-who&#34;&gt;This is who (who)&lt;/h1&gt;
 &lt;p&gt;Scientific programming languages, generally speaking, are programming languages that are widely used for computational science and computational mathematics. We will consider scientific programming languages as languages designed and optimized for the use of mathematical formulas and matrices.&lt;/p&gt;
 &lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;
@@ -117,9 +117,9 @@
     
     <item>
       <title>Sixth week</title>
-      <link>https://example.com/post/sixth-week/</link>
+      <link>https://freedandar.github.io/post/sixth-week/</link>
       <pubDate>Thu, 26 May 2022 17:57:46 +0300</pubDate>
-      <guid>https://example.com/post/sixth-week/</guid>
+      <guid>https://freedandar.github.io/post/sixth-week/</guid>
       <description>&lt;h1 id=&#34;sixth-6-6-its-almost-been-a-week&#34;&gt;Sixth (6 (6️⃣)) it&amp;rsquo;s almost been a week!&lt;/h1&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;Monday was according to the standard &amp;ndash; a morning lecture on TP (Programming Technology 👨‍💻) to &lt;strong&gt;&lt;em&gt;&lt;strong&gt;WAKE UP&lt;/strong&gt;&lt;/em&gt;&lt;/strong&gt; and a subsequent lecture on&amp;hellip;.. 🥁🥁🥁🥁🥁&amp;hellip; OPERATING SYSTEMS!!!! On operating systems, my fellow students, as usual, told their interesting (no kidding 🤭🤭🤭) reports. I learned a lot of new things, for example, that the slide &amp;ldquo;Thank you for your attention&amp;rdquo; is useless 💀💀💀. And on Friday (last) we didn&amp;rsquo;t have English 😔, so we decided to divide it into pairs and spend them on different days. We decided to hold one of the pairs this Monday. The couple went right after the OS and was cool. There we were preparing for exams.&lt;/p&gt;
@@ -139,9 +139,9 @@
     
     <item>
       <title>4th stage of the personal project</title>
-      <link>https://example.com/project/stage4/</link>
+      <link>https://freedandar.github.io/project/stage4/</link>
       <pubDate>Thu, 26 May 2022 17:42:49 +0300</pubDate>
-      <guid>https://example.com/project/stage4/</guid>
+      <guid>https://freedandar.github.io/project/stage4/</guid>
       <description>&lt;p&gt;In addition to laboratory work, I also completed the fourth stage of an individual project, which is the site you are currently on 🤓.&lt;/p&gt;
 &lt;p&gt;If you didn&amp;rsquo;t know yet, then the purpose of this individual project is&lt;/p&gt;
 &lt;blockquote&gt;
@@ -187,9 +187,9 @@ The site should be based on a template and include blocks such as posts, informa
     
     <item>
       <title>Lab №10</title>
-      <link>https://example.com/project/lab10/</link>
+      <link>https://freedandar.github.io/project/lab10/</link>
       <pubDate>Thu, 26 May 2022 17:42:42 +0300</pubDate>
-      <guid>https://example.com/project/lab10/</guid>
+      <guid>https://freedandar.github.io/project/lab10/</guid>
       <description>&lt;p&gt;Last week I did laboratory work No. 9. The purpose of this laboratory work was&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Learning the basics of programming in the UNIX/Linux OS shell, as well as learning how to write small command files.&lt;/p&gt;
@@ -206,9 +206,9 @@ The site should be based on a template and include blocks such as posts, informa
     
     <item>
       <title>Lab №9</title>
-      <link>https://example.com/project/lab09/</link>
+      <link>https://freedandar.github.io/project/lab09/</link>
       <pubDate>Thu, 26 May 2022 17:38:09 +0300</pubDate>
-      <guid>https://example.com/project/lab09/</guid>
+      <guid>https://freedandar.github.io/project/lab09/</guid>
       <description>&lt;p&gt;Last week I did laboratory work No. 9. The purpose of this laboratory work was&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Familiarization with the Linux operating system, as well as gaining practical skills in working with the emacs editor.&lt;/p&gt;
@@ -229,9 +229,9 @@ The site should be based on a template and include blocks such as posts, informa
     
     <item>
       <title>Creating presentations</title>
-      <link>https://example.com/post/presentation-creation/</link>
+      <link>https://freedandar.github.io/post/presentation-creation/</link>
       <pubDate>Thu, 19 May 2022 14:35:16 +0300</pubDate>
-      <guid>https://example.com/post/presentation-creation/</guid>
+      <guid>https://freedandar.github.io/post/presentation-creation/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;In this post we will talk about how to create presentations&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -246,9 +246,9 @@ The site should be based on a template and include blocks such as posts, informa
     
     <item>
       <title>Fifth week</title>
-      <link>https://example.com/post/fifth-week/</link>
+      <link>https://freedandar.github.io/post/fifth-week/</link>
       <pubDate>Thu, 19 May 2022 14:21:56 +0300</pubDate>
-      <guid>https://example.com/post/fifth-week/</guid>
+      <guid>https://freedandar.github.io/post/fifth-week/</guid>
       <description>&lt;h1 id=&#34;the-fifth-week-is-almost-over&#34;&gt;The fifth week is almost over!&lt;/h1&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;On Monday, after a long absence, we finally resumed lectures on our favorite subjects!!! These are programming technologies and the most favorite &amp;ndash; operating systems ❤️❤️❤️. Throughout the lecture, my fellow students told their reports. I also had a report, but apparently, since it was for the last lesson (which, as we know, did not pass), I was not called for a lesson. 😞😞😞 But it&amp;rsquo;s okay, I told the report to Dmitry Sergeevich at an additional consultation. My report was about command shells.&lt;/p&gt;
@@ -267,9 +267,9 @@ The site should be based on a template and include blocks such as posts, informa
     
     <item>
       <title>Markdown Markup Language</title>
-      <link>https://example.com/post/markdown/</link>
+      <link>https://freedandar.github.io/post/markdown/</link>
       <pubDate>Wed, 11 May 2022 18:00:37 +0300</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
+      <guid>https://freedandar.github.io/post/markdown/</guid>
       <description>&lt;h1 id=&#34;what-is-it&#34;&gt;What is it&lt;/h1&gt;
 &lt;p&gt;Markdown is a markup language used for formatting documents of all types. Today it is one of the most popular languages among programmers.&lt;/p&gt;
 &lt;h1 id=&#34;what-does-the-markup-language-mean&#34;&gt;What does the markup language mean&lt;/h1&gt;
@@ -318,9 +318,9 @@ __Here I underlined (but here it&amp;#39;s just bold)__, ~~and here I crossed ou
     
     <item>
       <title>Fourth week</title>
-      <link>https://example.com/post/fourth-week/</link>
+      <link>https://freedandar.github.io/post/fourth-week/</link>
       <pubDate>Wed, 11 May 2022 17:47:08 +0300</pubDate>
-      <guid>https://example.com/post/fourth-week/</guid>
+      <guid>https://freedandar.github.io/post/fourth-week/</guid>
       <description>&lt;h1 id=&#34;the-fourth-week-is-almost-over&#34;&gt;The fourth week is almost over!&lt;/h1&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;On Monday there was a holiday - May 9th - Victory Day. Therefore, this day was a weekend. And this means that we had neither a lecture on programming technologies, nor, most importantly, a lecture on &lt;strong&gt;Operating systems&lt;/strong&gt;!!!!! 😱😱😱 This is the second week without these lectures!!!! 💀💀💀 It&amp;rsquo;s generally uncool and very sad. 😔&lt;/p&gt;
@@ -340,9 +340,9 @@ __Here I underlined (but here it&amp;#39;s just bold)__, ~~and here I crossed ou
     
     <item>
       <title>Version control. Git.</title>
-      <link>https://example.com/post/git-version-control/</link>
+      <link>https://freedandar.github.io/post/git-version-control/</link>
       <pubDate>Thu, 05 May 2022 19:12:32 +0300</pubDate>
-      <guid>https://example.com/post/git-version-control/</guid>
+      <guid>https://freedandar.github.io/post/git-version-control/</guid>
       <description>&lt;h2 id=&#34;whats-a-git&#34;&gt;What&amp;rsquo;s a git?&lt;/h2&gt;
 &lt;p&gt;Git is a distributed version control system. It was developed by Linus Torvalds to manage the development of the Linux kernel.&lt;/p&gt;
 &lt;h2 id=&#34;and-what-is-a-version-control-system&#34;&gt;And what is a version control system?&lt;/h2&gt;
@@ -369,9 +369,9 @@ __Here I underlined (but here it&amp;#39;s just bold)__, ~~and here I crossed ou
     
     <item>
       <title>Third week</title>
-      <link>https://example.com/post/third-week/</link>
+      <link>https://freedandar.github.io/post/third-week/</link>
       <pubDate>Thu, 05 May 2022 18:52:47 +0300</pubDate>
-      <guid>https://example.com/post/third-week/</guid>
+      <guid>https://freedandar.github.io/post/third-week/</guid>
       <description>&lt;h1 id=&#34;the-week-was-so-cool&#34;&gt;The week was so cool!!!&lt;/h1&gt;
 &lt;h2 id=&#34;i-really-liked-everything&#34;&gt;I really liked everything!!!&lt;/h2&gt;
 &lt;p&gt;On Monday, according to the schedule, we have two remote lectures, but this Monday was a day off due to the holidays. But despite this, at the last lesson, the teacher in one of the subjects told us that there would be classes, despite the fact that it was a day off. However, in the end, there were no classes at the end! (🥺)&lt;/p&gt;
@@ -385,9 +385,9 @@ __Here I underlined (but here it&amp;#39;s just bold)__, ~~and here I crossed ou
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://freedandar.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://freedandar.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -464,9 +464,9 @@ __Here I underlined (but here it&amp;#39;s just bold)__, ~~and here I crossed ou
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://freedandar.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://freedandar.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -589,9 +589,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://freedandar.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://freedandar.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -602,9 +602,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
+      <link>https://freedandar.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
+      <guid>https://freedandar.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -621,9 +621,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://freedandar.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://freedandar.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

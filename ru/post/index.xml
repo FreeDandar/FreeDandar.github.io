@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Посты | Академик</title>
-    <link>https://example.com/ru/post/</link>
-      <atom:link href="https://example.com/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://freedandar.github.io/ru/post/</link>
+      <atom:link href="https://freedandar.github.io/ru/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Посты</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Wed, 01 Jun 2022 19:12:46 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://freedandar.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Посты</title>
-      <link>https://example.com/ru/post/</link>
+      <link>https://freedandar.github.io/ru/post/</link>
     </image>
     
     <item>
       <title>Wowchemy</title>
-      <link>https://example.com/ru/post/wowchemy/</link>
+      <link>https://freedandar.github.io/ru/post/wowchemy/</link>
       <pubDate>Wed, 01 Jun 2022 19:12:46 +0300</pubDate>
-      <guid>https://example.com/ru/post/wowchemy/</guid>
+      <guid>https://freedandar.github.io/ru/post/wowchemy/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Это пост про wowchemy &amp;ndash; то, что вы сейчас видите&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Седьмая неделя</title>
-      <link>https://example.com/ru/post/seventh-week/</link>
+      <link>https://freedandar.github.io/ru/post/seventh-week/</link>
       <pubDate>Wed, 01 Jun 2022 18:51:20 +0300</pubDate>
-      <guid>https://example.com/ru/post/seventh-week/</guid>
+      <guid>https://freedandar.github.io/ru/post/seventh-week/</guid>
       <description>&lt;h1 id=&#34;седьмая-七-неделя-почти-прошла&#34;&gt;Седьмая 七/❼ неделя почти прошла!&lt;/h1&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;Понедельник был чисто понедельником и ничего из себя не представлял. Прямо максимально понедельный понедельник. 😑😑😑 Утром технология программирования, днем &amp;ndash; наш любимый предмет (подсказка &amp;ndash; ОС 🤓).&lt;/p&gt;
@@ -77,9 +77,9 @@
     
     <item>
       <title>Языки научного программирования</title>
-      <link>https://example.com/ru/post/sci-langs/</link>
+      <link>https://freedandar.github.io/ru/post/sci-langs/</link>
       <pubDate>Thu, 26 May 2022 18:17:00 +0300</pubDate>
-      <guid>https://example.com/ru/post/sci-langs/</guid>
+      <guid>https://freedandar.github.io/ru/post/sci-langs/</guid>
       <description>&lt;h1 id=&#34;это-кто-who&#34;&gt;Это кто (who)&lt;/h1&gt;
 &lt;p&gt;Языки научного программирования, обобщенно говоря &amp;ndash; это языки программирования, которые широко используются для вычислительной науки и вычислительной математики. Мы же будем считать языки научного программирования языками, разработанными и оптимизированными для использования математических формул и матриц.&lt;/p&gt;
 &lt;h1 id=&#34;примеры&#34;&gt;Примеры&lt;/h1&gt;
@@ -97,9 +97,9 @@
     
     <item>
       <title>Шестая неделя</title>
-      <link>https://example.com/ru/post/sixth-week/</link>
+      <link>https://freedandar.github.io/ru/post/sixth-week/</link>
       <pubDate>Thu, 26 May 2022 17:57:46 +0300</pubDate>
-      <guid>https://example.com/ru/post/sixth-week/</guid>
+      <guid>https://freedandar.github.io/ru/post/sixth-week/</guid>
       <description>&lt;h1 id=&#34;шестая-6-6-неделя-почти-прошла&#34;&gt;Шестая (6 (6️⃣)) неделя почти прошла!&lt;/h1&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;Понедельник был по стандарту &amp;ndash; утренняя лекция по ТП (Технологии программирования 👨‍💻) чтобы &lt;strong&gt;&lt;em&gt;&lt;strong&gt;ПРОСНУТЬСЯ&lt;/strong&gt;&lt;/em&gt;&lt;/strong&gt; и последующая лекция по&amp;hellip;.. 🥁🥁🥁🥁🥁&amp;hellip; ОПЕРАЦИОННЫМ СИСТЕМАМ!!!! На операционных системах мои fellow students как обычно рассказывали свои интересные (без шуток 🤭🤭🤭) доклады. Я узнал много нового, например, что слайд &amp;ldquo;Спасибо за внимание&amp;rdquo; &amp;ndash; бесполезен 💀💀💀. А еще в пятницу (прошлую) у нас не было английского 😔, и мы решили разделить его на пары и провести их в разные дни. Одну из пар мы решили провести в этот понедельник. Пара шла сразу после ОС и была классной. Там мы готовились к экзаменам.&lt;/p&gt;
@@ -119,9 +119,9 @@
     
     <item>
       <title>Создание презентаций</title>
-      <link>https://example.com/ru/post/presentation-creation/</link>
+      <link>https://freedandar.github.io/ru/post/presentation-creation/</link>
       <pubDate>Thu, 19 May 2022 14:35:16 +0300</pubDate>
-      <guid>https://example.com/ru/post/presentation-creation/</guid>
+      <guid>https://freedandar.github.io/ru/post/presentation-creation/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;В этом посте мы поговорим о том, как создавать презентации&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -136,9 +136,9 @@
     
     <item>
       <title>Пятая неделя</title>
-      <link>https://example.com/ru/post/fifth-week/</link>
+      <link>https://freedandar.github.io/ru/post/fifth-week/</link>
       <pubDate>Thu, 19 May 2022 14:21:56 +0300</pubDate>
-      <guid>https://example.com/ru/post/fifth-week/</guid>
+      <guid>https://freedandar.github.io/ru/post/fifth-week/</guid>
       <description>&lt;h1 id=&#34;пятая-неделя-почти-прошла&#34;&gt;Пятая неделя почти прошла!&lt;/h1&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;В понедельник, после долгого отсутствия у нас наконец-то возобновились лекции по нашим любимым предметам!!! Это технологии программирования и самый любимый &amp;ndash; операционные системы ❤️❤️❤️. Всю лекцию мои fellow students рассказывали свои доклады. У меня тоже был доклад, но видимо, т.к. он был на прошлое занятия (которое, как мы знаем, не прошло), то меня не вызвали за урок. 😞😞😞 Но ничего страшного, я рассказал доклад Дмитрию Сергеевичу на дополнительной консультации. Мой доклад был про командные оболочки.&lt;/p&gt;
@@ -157,9 +157,9 @@
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>https://example.com/ru/post/markdown/</link>
+      <link>https://freedandar.github.io/ru/post/markdown/</link>
       <pubDate>Wed, 11 May 2022 18:00:37 +0300</pubDate>
-      <guid>https://example.com/ru/post/markdown/</guid>
+      <guid>https://freedandar.github.io/ru/post/markdown/</guid>
       <description>&lt;h1 id=&#34;что-это&#34;&gt;Что это&lt;/h1&gt;
 &lt;p&gt;Markdown &amp;ndash; это язык разметки, используемый для форматирования документов всех типов. Сегодня это один из самых популярных языков среди программистов.&lt;/p&gt;
 &lt;h1 id=&#34;что-значит-язык-разметки&#34;&gt;Что значит язык разметки&lt;/h1&gt;
@@ -208,9 +208,9 @@ __Тут я подчеркнул (но тут это просто жирный)_
     
     <item>
       <title>Четвертая неделя</title>
-      <link>https://example.com/ru/post/fourth-week/</link>
+      <link>https://freedandar.github.io/ru/post/fourth-week/</link>
       <pubDate>Wed, 11 May 2022 17:47:08 +0300</pubDate>
-      <guid>https://example.com/ru/post/fourth-week/</guid>
+      <guid>https://freedandar.github.io/ru/post/fourth-week/</guid>
       <description>&lt;h1 id=&#34;четвертая-неделя-почти-прошла&#34;&gt;Четвертая неделя почти прошла!&lt;/h1&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;В понедельник был праздник &amp;ndash; 9 мая &amp;ndash; День Победы. Поэтому этот день был выходным. А это значит, что у нас не было ни лекции по технологиям программирования, ни, что самое главное, лекции по &lt;strong&gt;Операционным системам&lt;/strong&gt;!!!!! 😱😱😱 Это уже вторая неделя без этих лекций!!!! 💀💀💀 Это вообще некруто и очень грустно. 😔&lt;/p&gt;
@@ -230,9 +230,9 @@ __Тут я подчеркнул (но тут это просто жирный)_
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>https://example.com/ru/post/git-version-control/</link>
+      <link>https://freedandar.github.io/ru/post/git-version-control/</link>
       <pubDate>Thu, 05 May 2022 19:12:32 +0300</pubDate>
-      <guid>https://example.com/ru/post/git-version-control/</guid>
+      <guid>https://freedandar.github.io/ru/post/git-version-control/</guid>
       <description>&lt;h2 id=&#34;что-такое-git&#34;&gt;Что такое Git?&lt;/h2&gt;
 &lt;p&gt;Git &amp;ndash; это распределенная система управления версиями. Была разработана Линусом Торвальдсом для управления разработкой ядра Linux.&lt;/p&gt;
 &lt;h2 id=&#34;а-что-такое-система-управления-версиями&#34;&gt;А что такое система управления версиями?&lt;/h2&gt;
@@ -259,9 +259,9 @@ __Тут я подчеркнул (но тут это просто жирный)_
     
     <item>
       <title>Третья неделя</title>
-      <link>https://example.com/ru/post/third-week/</link>
+      <link>https://freedandar.github.io/ru/post/third-week/</link>
       <pubDate>Thu, 05 May 2022 18:52:47 +0300</pubDate>
-      <guid>https://example.com/ru/post/third-week/</guid>
+      <guid>https://freedandar.github.io/ru/post/third-week/</guid>
       <description>&lt;h1 id=&#34;неделя-была-такой-классной&#34;&gt;Неделя была такой классной!!!&lt;/h1&gt;
 &lt;h2 id=&#34;очень-все-понравилось&#34;&gt;Очень все понравилось!!!&lt;/h2&gt;
 &lt;p&gt;В понедельник по расписанию у нас две дистанционные лекции, однако этот понедельник был выходным днем из-за праздников. Но несмотря на это, на прошлом занятии преподаватель по одному из предметов нам сказал, что занятия будут, несмотря на то, что это выходной день. Однако, в конце концов, по итогу занятий не было! (🥺)&lt;/p&gt;
@@ -275,9 +275,9 @@ __Тут я подчеркнул (но тут это просто жирный)_
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/ru/post/getting-started/</link>
+      <link>https://freedandar.github.io/ru/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/getting-started/</guid>
+      <guid>https://freedandar.github.io/ru/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;

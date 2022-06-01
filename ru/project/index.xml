@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Академик</title>
-    <link>https://example.com/ru/project/</link>
-      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://freedandar.github.io/ru/project/</link>
+      <atom:link href="https://freedandar.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Thu, 26 May 2022 17:42:49 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://freedandar.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/ru/project/</link>
+      <link>https://freedandar.github.io/ru/project/</link>
     </image>
     
     <item>
       <title>4-ый этап индивидуального проекта</title>
-      <link>https://example.com/ru/project/stage4/</link>
+      <link>https://freedandar.github.io/ru/project/stage4/</link>
       <pubDate>Thu, 26 May 2022 17:42:49 +0300</pubDate>
-      <guid>https://example.com/ru/project/stage4/</guid>
+      <guid>https://freedandar.github.io/ru/project/stage4/</guid>
       <description>&lt;p&gt;Помимо лабораторных работ, я также выполнил четвертый этап индивидуального проекта, коим является сайт, на котором Вы сейчас находитесь 🤓.&lt;/p&gt;
 &lt;p&gt;Если Вы еще не знали, то целью данного индивидуального проекта является&lt;/p&gt;
 &lt;blockquote&gt;
@@ -62,9 +62,9 @@
     
     <item>
       <title>Лабораторная работа №10</title>
-      <link>https://example.com/ru/project/lab10/</link>
+      <link>https://freedandar.github.io/ru/project/lab10/</link>
       <pubDate>Thu, 26 May 2022 17:42:42 +0300</pubDate>
-      <guid>https://example.com/ru/project/lab10/</guid>
+      <guid>https://freedandar.github.io/ru/project/lab10/</guid>
       <description>&lt;p&gt;На прошлой неделе я делал лабораторную работу №9. Целью данной лабораторной работы было&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Изучение основ программирования в оболочке ОС UNIX/Linux, а также обучение написанию небольших командных файлов.&lt;/p&gt;
@@ -81,9 +81,9 @@
     
     <item>
       <title>Лабораторная работа №9</title>
-      <link>https://example.com/ru/project/lab09/</link>
+      <link>https://freedandar.github.io/ru/project/lab09/</link>
       <pubDate>Thu, 26 May 2022 17:38:09 +0300</pubDate>
-      <guid>https://example.com/ru/project/lab09/</guid>
+      <guid>https://freedandar.github.io/ru/project/lab09/</guid>
       <description>&lt;p&gt;На прошлой неделе я делал лабораторную работу №9. Целью данной лабораторной работы было&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Ознакомление с операционной системой Linux, а также получение практических навыков работы с редактором emacs.&lt;/p&gt;
@@ -104,9 +104,9 @@
     
     <item>
       <title>Example Project</title>
-      <link>https://example.com/ru/project/example/</link>
+      <link>https://freedandar.github.io/ru/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/example/</guid>
+      <guid>https://freedandar.github.io/ru/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;

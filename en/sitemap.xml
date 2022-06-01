@@ -4,224 +4,184 @@
   
   
   <url>
-    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/"
+      href="https://freedandar.github.io/ru/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/"
+      href="https://freedandar.github.io/"
     /></url>
   <url>
-    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/talk/example-talk/"
+      href="https://freedandar.github.io/ru/talk/example-talk/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/talk/example-talk/"
+      href="https://freedandar.github.io/talk/example-talk/"
     /></url>
   <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/event/"
+      href="https://freedandar.github.io/ru/event/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/event/"
+      href="https://freedandar.github.io/event/"
     /></url>
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-06-01T19:12:46+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/post/</loc><lastmod>2022-06-01T19:12:46+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/"
+      href="https://freedandar.github.io/ru/post/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/"
+      href="https://freedandar.github.io/post/"
     /></url>
   <url>
-    <loc>https://example.com/post/wowchemy/</loc><lastmod>2022-06-01T19:12:46+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/post/wowchemy/</loc><lastmod>2022-06-01T19:12:46+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/wowchemy/"
+      href="https://freedandar.github.io/ru/post/wowchemy/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/wowchemy/"
+      href="https://freedandar.github.io/post/wowchemy/"
     /></url>
   <url>
-    <loc>https://example.com/post/seventh-week/</loc><lastmod>2022-06-01T18:51:20+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/post/seventh-week/</loc><lastmod>2022-06-01T18:51:20+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/seventh-week/"
+      href="https://freedandar.github.io/ru/post/seventh-week/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/seventh-week/"
+      href="https://freedandar.github.io/post/seventh-week/"
     /></url>
   <url>
-    <loc>https://example.com/post/sci-langs/</loc><lastmod>2022-05-26T18:17:00+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/post/sci-langs/</loc><lastmod>2022-05-26T18:17:00+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/sci-langs/"
+      href="https://freedandar.github.io/ru/post/sci-langs/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/sci-langs/"
+      href="https://freedandar.github.io/post/sci-langs/"
     /></url>
   <url>
-    <loc>https://example.com/post/sixth-week/</loc><lastmod>2022-05-26T17:57:46+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/post/sixth-week/</loc><lastmod>2022-05-26T17:57:46+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/sixth-week/"
+      href="https://freedandar.github.io/ru/post/sixth-week/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/sixth-week/"
+      href="https://freedandar.github.io/post/sixth-week/"
     /></url>
   <url>
-    <loc>https://example.com/project/stage4/</loc><lastmod>2022-05-26T17:42:49+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/project/stage4/</loc><lastmod>2022-05-26T17:42:49+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/stage4/"
+      href="https://freedandar.github.io/ru/project/stage4/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/stage4/"
+      href="https://freedandar.github.io/project/stage4/"
     /></url>
   <url>
-    <loc>https://example.com/project/</loc><lastmod>2022-05-26T17:42:49+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/project/</loc><lastmod>2022-05-26T17:42:49+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/"
+      href="https://freedandar.github.io/ru/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/"
+      href="https://freedandar.github.io/project/"
     /></url>
   <url>
-    <loc>https://example.com/project/lab10/</loc><lastmod>2022-05-26T17:42:42+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/project/lab10/</loc><lastmod>2022-05-26T17:42:42+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/lab10/"
+      href="https://freedandar.github.io/ru/project/lab10/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/lab10/"
+      href="https://freedandar.github.io/project/lab10/"
     /></url>
   <url>
-    <loc>https://example.com/project/lab09/</loc><lastmod>2022-05-26T17:38:09+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/project/lab09/</loc><lastmod>2022-05-26T17:38:09+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/lab09/"
+      href="https://freedandar.github.io/ru/project/lab09/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/lab09/"
+      href="https://freedandar.github.io/project/lab09/"
     /></url>
   <url>
-    <loc>https://example.com/post/presentation-creation/</loc><lastmod>2022-05-19T14:35:16+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/post/presentation-creation/</loc><lastmod>2022-05-19T14:35:16+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/presentation-creation/"
+      href="https://freedandar.github.io/ru/post/presentation-creation/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/presentation-creation/"
+      href="https://freedandar.github.io/post/presentation-creation/"
     /></url>
   <url>
-    <loc>https://example.com/post/fifth-week/</loc><lastmod>2022-05-19T14:21:56+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/post/fifth-week/</loc><lastmod>2022-05-19T14:21:56+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/fifth-week/"
+      href="https://freedandar.github.io/ru/post/fifth-week/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/fifth-week/"
+      href="https://freedandar.github.io/post/fifth-week/"
     /></url>
   <url>
-    <loc>https://example.com/post/markdown/</loc><lastmod>2022-05-11T18:00:37+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/post/markdown/</loc><lastmod>2022-05-11T18:00:37+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/markdown/"
+      href="https://freedandar.github.io/ru/post/markdown/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/markdown/"
+      href="https://freedandar.github.io/post/markdown/"
     /></url>
   <url>
-    <loc>https://example.com/post/fourth-week/</loc><lastmod>2022-05-11T17:47:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/post/fourth-week/</loc><lastmod>2022-05-11T17:47:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/fourth-week/"
+      href="https://freedandar.github.io/ru/post/fourth-week/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/fourth-week/"
+      href="https://freedandar.github.io/post/fourth-week/"
     /></url>
   <url>
-    <loc>https://example.com/post/git-version-control/</loc><lastmod>2022-05-05T19:12:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/post/git-version-control/</loc><lastmod>2022-05-05T19:12:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/git-version-control/"
+      href="https://freedandar.github.io/ru/post/git-version-control/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/git-version-control/"
+      href="https://freedandar.github.io/post/git-version-control/"
     /></url>
   <url>
-    <loc>https://example.com/post/third-week/</loc><lastmod>2022-05-05T18:52:47+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/post/third-week/</loc><lastmod>2022-05-05T18:52:47+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/third-week/"
+      href="https://freedandar.github.io/ru/post/third-week/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/third-week/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc>https://example.com/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/tag/academic/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/tag/academic/"
-    /></url>
-  <url>
-    <loc>https://example.com/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/categories/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/categories/"
-    /></url>
-  <url>
-    <loc>https://example.com/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/category/demo/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/category/demo/"
+      href="https://freedandar.github.io/post/third-week/"
     /></url>
   <url>
     <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -234,24 +194,34 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tags/"
+      href="https://freedandar.github.io/ru/tag/academic/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tags/"
+      href="https://freedandar.github.io/tag/academic/"
     /></url>
   <url>
-    <loc>https://example.com/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/getting-started/"
+      href="https://freedandar.github.io/ru/categories/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/getting-started/"
+      href="https://freedandar.github.io/categories/"
+    /></url>
+  <url>
+    <loc>https://freedandar.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://freedandar.github.io/ru/category/demo/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://freedandar.github.io/category/demo/"
     /></url>
   <url>
     <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -264,104 +234,134 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/%E5%BC%80%E6%BA%90/"
+      href="https://freedandar.github.io/ru/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/%E5%BC%80%E6%BA%90/"
+      href="https://freedandar.github.io/tags/"
     /></url>
   <url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/category/%E6%95%99%E7%A8%8B/"
+      href="https://freedandar.github.io/ru/post/getting-started/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/category/%E6%95%99%E7%A8%8B/"
+      href="https://freedandar.github.io/post/getting-started/"
     /></url>
   <url>
-    <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/"
+      href=""
     /></url>
   <url>
-    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/example/"
+      href="https://freedandar.github.io/ru/tag/%E5%BC%80%E6%BA%90/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/example/"
+      href="https://freedandar.github.io/tag/%E5%BC%80%E6%BA%90/"
     /></url>
   <url>
-    <loc>https://example.com/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/deep-learning/"
+      href="https://freedandar.github.io/ru/category/%E6%95%99%E7%A8%8B/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/deep-learning/"
+      href="https://freedandar.github.io/category/%E6%95%99%E7%A8%8B/"
     /></url>
   <url>
-    <loc>https://example.com/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/example/"
+      href="https://freedandar.github.io/ru/slides/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/example/"
+      href="https://freedandar.github.io/slides/"
     /></url>
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication-type/1/"
+      href="https://freedandar.github.io/ru/slides/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication-type/1/"
+      href="https://freedandar.github.io/slides/example/"
     /></url>
   <url>
-    <loc>https://example.com/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/example/"
+      href="https://freedandar.github.io/ru/tag/deep-learning/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/example/"
+      href="https://freedandar.github.io/tag/deep-learning/"
     /></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication_types/"
+      href="https://freedandar.github.io/ru/project/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication_types/"
+      href="https://freedandar.github.io/project/example/"
     /></url>
   <url>
-    <loc>https://example.com/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://freedandar.github.io/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/"
+      href="https://freedandar.github.io/ru/publication-type/1/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/"
+      href="https://freedandar.github.io/publication-type/1/"
+    /></url>
+  <url>
+    <loc>https://freedandar.github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://freedandar.github.io/ru/publication/example/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://freedandar.github.io/publication/example/"
+    /></url>
+  <url>
+    <loc>https://freedandar.github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://freedandar.github.io/ru/publication_types/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://freedandar.github.io/publication_types/"
+    /></url>
+  <url>
+    <loc>https://freedandar.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://freedandar.github.io/ru/publication/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://freedandar.github.io/publication/"
     /></url>
   <url>
     <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
